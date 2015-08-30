@@ -183,6 +183,8 @@
 		display:inline-block;
 		max-height:350px;
 		width:auto;
+		margin-left:-29px;
+
 	}
 	#loop article section.body{
 		height:350px;
@@ -217,7 +219,8 @@
 		width:100%;
 	}
 	#loop article section.excerpt p{
-		font-size: 16px;
+		font-size: 14px;
+		color:#8A8A8A;
 	}
 	#loop article footer{
 		margin-top:15px;
