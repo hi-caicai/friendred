@@ -14,7 +14,7 @@ body{/*font-family: 'Montserrat', sans-serif;*/}
     .Theme-Original{background:#dedede;}
 	.Theme-Dark{background:#333;}
 		.Site-Container{margin:0 auto;width:85%;max-width:1260px;/*border-left:1px solid #111;border-right:1px solid #111;*/}
-		.Container-Large{margin:0 auto;width:85%;max-width:1260px;/*border-left:1px solid #111;border-right:1px solid #111;*/}
+		.Container-Large{margin:0 auto;width:100%;max-width:1260px;/*border-left:1px solid #111;border-right:1px solid #111;*/}
 		.Container-Medium{margin:0 auto;width:85%;max-width:1000px;/*border-left:1px solid #111;border-right:1px solid #111;*/}
 		.Container-Small{margin:0 auto;width:85%;max-width:680px;/*border-left:1px solid #111;border-right:1px solid #111;*/}
 		.Container-Tiny{margin:0 auto;width:85%;max-width:480px;/*border-left:1px solid #111;border-right:1px solid #111;*/}

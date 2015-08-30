@@ -26,7 +26,7 @@
 		height:80%;
 	}
 	section.hero-noimage{
-		background:#efefef;
+		background:#FFE75D;
 		color:#000!important;
 	}
 	section.hero-noimage a:hover{
@@ -340,6 +340,7 @@
 		height:auto;
 		max-height:600px;
 		max-width:100%;
+		width: 100%;
 	}
 	#post section.body ul{margin-left:2px;}
 	#post section.body ul li{margin-left:5px;position:relative;}
